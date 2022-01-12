@@ -13,4 +13,4 @@
 
 <p3 align="center"> As an experienced data analyst, I am also adept at working independently and collaborating with teams, demonstrated through both past work experience and the certificate program, where I kept open and regular communication with my coworkers and teammates both in-person and virtually. </p3>
 
-<p4 align="center"> Overall, I am enthusiastic about continually learning and widening my breadth of knowledge to set myself up to be an asset to any team I may join. </p4>
+<p4 align="center"> Overall, I am enthusiastic about continually learning and widening my breadth of knowledge to set myself up to be an asset to any team I may join! </p4>
