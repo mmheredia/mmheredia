@@ -2,7 +2,7 @@
 <img src="images/header.jpg" width="100%" align="cemter"/>
 
 <!-- Header -->
-<h1 align="center">Hi I'm Melina!</h1>
+<h1 align="center"> Hi I'm Melina! </h1>
 
 <!-- About me -->
 <h2 align="center">About Me:</h2>
