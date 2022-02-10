@@ -9,9 +9,7 @@
 
 <p align="center"> Hello my name is Melina. I am a data analyst with a degree in finance and a minor in French from California State University San Marcos and a certificate in data science from the University of California San Diego. </p>
 
-<p1 align="center"> Hello my name is Melina. I am a data analyst with a degree in finance and a minor in French from California State University San Marcos and a certificate in data science from the University of California San Diego. </p1>
-
-<p2 align="center"> As a graduate of the University of California San Diego certificate program, I have over 100+ collective hours of experience using Excel, VBA, Python, SQL, JavaScript, R, HTML, and Tableau. During the certificate program, I developed fully functional applications and visual datasets as well as interactive websites to display the work. One prominent example includes an interactive website built to showcase the video game sales market, that integrated the manipulation of a large dataset and the scraping of material from a video game statistics web page. </p2>
+<p align="center"> As a graduate of the University of California San Diego certificate program, I have over 100+ collective hours of experience using Excel, VBA, Python, SQL, JavaScript, R, HTML, and Tableau. During the certificate program, I developed fully functional applications and visual datasets as well as interactive websites to display the work. One prominent example includes an interactive website built to showcase the video game sales market, that integrated the manipulation of a large dataset and the scraping of material from a video game statistics web page. </p>
 
 <p3 align="center"> As an experienced data analyst, I am also adept at working independently and collaborating with teams, demonstrated through both past work experience and the certificate program, where I kept open and regular communication with my coworkers and teammates both in-person and virtually. </p3>
 
