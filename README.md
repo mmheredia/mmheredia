@@ -5,9 +5,11 @@
 <h1 align="center"> Hi I'm Melina! </h1>
 
 <!-- About me -->
-<h2 align="center">About Me:</h2>
+<h2 align="center"> About Me: </h2>
 
-<p1 align="center">Hello my name is Melina. I am a data analyst with a degree in finance and a minor in French from California State University San Marcos and a certificate in data science from the University of California San Diego. </p1>
+<p align="center"> Email: heredia.me125@gmail.com </p>
+
+<p1 align="center"> Hello my name is Melina. I am a data analyst with a degree in finance and a minor in French from California State University San Marcos and a certificate in data science from the University of California San Diego. </p1>
 
 <p2 align="center"> As a graduate of the University of California San Diego certificate program, I have over 100+ collective hours of experience using Excel, VBA, Python, SQL, JavaScript, R, HTML, and Tableau. During the certificate program, I developed fully functional applications and visual datasets as well as interactive websites to display the work. One prominent example includes an interactive website built to showcase the video game sales market, that integrated the manipulation of a large dataset and the scraping of material from a video game statistics web page. </p2>
 
