@@ -11,8 +11,8 @@
 
 <p align="center"> As a graduate of the University of California San Diego certificate program, I have over 100+ collective hours of experience using Excel, VBA, Python, SQL, JavaScript, R, HTML, and Tableau. During the certificate program, I developed fully functional applications and visual datasets as well as interactive websites to display the work. One prominent example includes an interactive website built to showcase the video game sales market, that integrated the manipulation of a large dataset and the scraping of material from a video game statistics web page. </p>
 
-<p3 align="center"> As an experienced data analyst, I am also adept at working independently and collaborating with teams, demonstrated through both past work experience and the certificate program, where I kept open and regular communication with my coworkers and teammates both in-person and virtually. </p3>
+<p align="center"> As an experienced data analyst, I am also adept at working independently and collaborating with teams, demonstrated through both past work experience and the certificate program, where I kept open and regular communication with my coworkers and teammates both in-person and virtually. </p>
 
-<p4 align="center"> Overall, I am enthusiastic about continually learning and widening my breadth of knowledge to set myself up to be an asset to any team I may join! </p4>
+<p align="center"> Overall, I am enthusiastic about continually learning and widening my breadth of knowledge to set myself up to be an asset to any team I may join! </p>
 
 <p align="center"> Email: heredia.me125@gmail.com </p>
