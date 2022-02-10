@@ -7,7 +7,7 @@
 <!-- About me -->
 <h2 align="center"> About Me: </h2>
 
-<p align="center"> Email: heredia.me125@gmail.com </p>
+<p align="center"> Hello my name is Melina. I am a data analyst with a degree in finance and a minor in French from California State University San Marcos and a certificate in data science from the University of California San Diego. </p>
 
 <p1 align="center"> Hello my name is Melina. I am a data analyst with a degree in finance and a minor in French from California State University San Marcos and a certificate in data science from the University of California San Diego. </p1>
 
